@@ -40,7 +40,7 @@ It also includes all of the nice-to-haves to ensure that you code is high qualit
 -   `npm run autofix` - fix all autofixable issues
 -   `npm run ts-check` - runs the TypeScript compiler to see TypeScript errors
 -   `npm run spellcheck` - runs CSpell to see any typos. If the word is misidentified, add it to `cspell.json`.
--   `npm run test` - runs Jest and all unit tests
+-   `npm run test` - runs Jest and all unit tests!
 -   `npm run clean` - removes all auto-generated files and dependencies
 -   `npm run list-outdated-dependencies` - lists the dependencies that have newer versions available with links to their repository and changelog
 -   `npm run update-dependencies` - update and install all outdated dependencies
