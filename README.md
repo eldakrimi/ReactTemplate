@@ -4,7 +4,7 @@ This repository exists as a starting point for a new React 18 application (with 
 
 This repository should be generic enough that most people can use it out of the box. It comes with an existing "hello world" application which you can build and run right away.
 
-It also includes all of the nice-to-haves to ensure that you code is high quality and follows best practices. This is very helpful for a beginner who needs nudges in the right direction but also helps an expert focus on the higher level problems and not worry about missing smaller errors.
+It also includes all of the nice-to-haves to ensure that you code is high quality and follows best practices. This is very helpful for a beginner who needs nudges in the right direction but also helps an expert focus on the higher level problems and not worry about missing smaller errors!
 
 ## Setup
 
